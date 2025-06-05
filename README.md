@@ -1,0 +1,1 @@
+# -Global-Deep-Tectonic-Activity-Plate-Splitting-Database-2000-2025-
