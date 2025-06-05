@@ -69,12 +69,3 @@ The included notebook and data support:
 
 This project is licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
 You may copy, distribute, and adapt the work, but must credit **Ghulam Mustafa** as the original creator.
-
----
-
-## 🤝 Connect
-
-📫 Email: `ghulam.mustafa@example.com`  
-🔗 LinkedIn: [linkedin.com/in/ghulam-mustafa](https://www.linkedin.com/in/)  
-🧠 Kaggle: [kaggle.com/ghulammustafa](https://www.kaggle.com/)  
-# -Global-Deep-Tectonic-Activity-Plate-Splitting-Database-2000-2025-
