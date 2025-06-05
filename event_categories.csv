@@ -1,0 +1,6 @@
+Event Type,Code,Description
+Delamination,DEL,Lower plate layer detaches and sinks
+Subduction Zone,SUB,Plate diving under another
+Rift,RFT,Plates pulling apart
+Convergent Zone,CNV,Plates pushing together
+Transform Fault,TRF,Plates sliding past each other
